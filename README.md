@@ -5,7 +5,7 @@ I am looking forward to working with you on your projects !
 
 ## Contact me
 
-<a target="blank" href="https://www.linkedin.com/in/joan-vandenbulcke/"><img src="https://www.cdnlogo.com/logos/l/72/linkedin-icon.svg" style="width: 40px; color: #FFFFFF"></a>
+<a target="_blank" href="https://www.linkedin.com/in/joan-vandenbulcke/"><img src="https://www.cdnlogo.com/logos/l/72/linkedin-icon.svg" style="width: 40px; background-color: #FFFFFF"></a>
 
 <!--
 **joan-vandenbulcke/joan-vandenbulcke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
