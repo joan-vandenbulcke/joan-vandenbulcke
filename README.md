@@ -5,6 +5,9 @@ I am looking forward to working with you on your projects !
 
 ## Contact me
 
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/simpleicons.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/simpleicons.svg" />
+
 <!--
 **joan-vandenbulcke/joan-vandenbulcke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
