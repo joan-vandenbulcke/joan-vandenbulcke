@@ -1,4 +1,4 @@
-### I'm a Javascript lover !
+# I'm a Javascript lover !
 
 <!--
 **joan-vandenbulcke/joan-vandenbulcke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
