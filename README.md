@@ -1,4 +1,4 @@
-<blockquote style="background-color: #f9f9f9; padding: 10px;">
+<blockquote style="background-color: #0000; padding: 10px;">
     I'm a Javascript lover !
 </blockquote>
 
