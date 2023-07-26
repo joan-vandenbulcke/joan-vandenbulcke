@@ -1,4 +1,6 @@
-# I'm a Javascript lover !
+<blockquote style="background-color: #f9f9f9; padding: 10px;">
+    # I'm a Javascript lover !
+</blockquote>
 
 <!--
 **joan-vandenbulcke/joan-vandenbulcke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
