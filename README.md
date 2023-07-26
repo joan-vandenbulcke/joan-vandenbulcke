@@ -6,7 +6,7 @@ I am looking forward to working with you on your projects !
 ## Contact me
 
 <a href="https://www.linkedin.com/in/joan-vandenbulcke/" target="_blank">
-  <img src="data:image/svg+xml;charset=UTF-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%230077B5'%3E%3Cpath d='M20.678 4H3.322C2.514 4 2 4.514 2 5.322v17.356C2 23.486 2.514 24 3.322 24h17.356C21.486 24 22 23.486 22 22.678V5.322C22 4.514 21.486 4 20.678 4zM7.684 19.235h-3.56V9.812h3.56v9.423zM5.9 8.595c-1.24 0-2.178-.823-2.178-1.849 0-1.067.938-1.848 2.354-1.848 1.415 0 2.178.78 2.178 1.848 0 1.026-.938 1.849-2.354 1.849zm15.334 10.64h-3.578v-5.883c0-1.398-.5-2.347-1.753-2.347-1.085 0-1.73.726-2.011 1.428-.104.252-.13.602-.13.957v6.845h-3.56s.047-9.72 0-10.752h3.56v1.526c-.001.005-.006.012-.006.018h.006v-.018c.472-.726 1.32-1.761 3.225-1.761 2.353 0 4.126 1.53 4.126 4.83v6.187z'/%3E%3C/svg%3E" alt="Linkedin" style="width: 40px; background-color: #FFFFFF">
+  <img src="https://cdn-icons-png.flaticon.com/512/3938/3938061.png" alt="Linkedin" style="width: 40px>
 </a>
 
 <!--
