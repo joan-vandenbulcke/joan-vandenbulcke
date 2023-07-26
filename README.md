@@ -9,6 +9,10 @@ I am looking forward to working with you on your projects !
   <img src="https://cdn-icons-png.flaticon.com/512/3938/3938061.png" alt="Linkedin" style="width: 40px;">
 </a>
 
+<a href="https://www.linkedin.com/in/joan-vandenbulcke/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin" style="width: 40px;">
+</a>
+
 <!--
 **joan-vandenbulcke/joan-vandenbulcke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
