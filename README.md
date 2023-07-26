@@ -1,4 +1,4 @@
-# I'm a Javascript lover !
+# Joan... Javascript lover !
 
 I am a Javascript developer and particularly enjoy front-end development and creating unique user experiences.
 I am looking forward to working with you on your projects !
